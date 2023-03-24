@@ -1,0 +1,10 @@
+D:\projects\TFlexRepCleaner\obj\Debug\netcoreapp2.0\TFlexRepCleaner.csproj.CoreCompileInputs.cache
+D:\projects\TFlexRepCleaner\obj\Debug\netcoreapp2.0\TFlexRepCleaner.AssemblyInfoInputs.cache
+D:\projects\TFlexRepCleaner\obj\Debug\netcoreapp2.0\TFlexRepCleaner.AssemblyInfo.cs
+D:\projects\TFlexRepCleaner\bin\Debug\netcoreapp2.0\TFlexRepCleaner.deps.json
+D:\projects\TFlexRepCleaner\bin\Debug\netcoreapp2.0\TFlexRepCleaner.runtimeconfig.json
+D:\projects\TFlexRepCleaner\bin\Debug\netcoreapp2.0\TFlexRepCleaner.runtimeconfig.dev.json
+D:\projects\TFlexRepCleaner\bin\Debug\netcoreapp2.0\TFlexRepCleaner.dll
+D:\projects\TFlexRepCleaner\bin\Debug\netcoreapp2.0\TFlexRepCleaner.pdb
+D:\projects\TFlexRepCleaner\obj\Debug\netcoreapp2.0\TFlexRepCleaner.dll
+D:\projects\TFlexRepCleaner\obj\Debug\netcoreapp2.0\TFlexRepCleaner.pdb
